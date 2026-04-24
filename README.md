@@ -1,10 +1,4 @@
-<img width="1508" height="841" alt="Screenshot 2026-04-24 at 12 41 06 PM" src="https://github.com/user-attachments/assets/c8fb0df7-9836-431d-bbf7-104c19fdb7a4" />
 # Be My Valentine - Interactive Invitation
-
-<div align="center">
-  <img src="https://i.ibb.co/LzhW90mW/IMG-4234.jpg" alt="Invitation Screen Screenshot" width="400" />
-  <img src="https://i.ibb.co/DDW43WgV/IMG-4237.jpg" alt="Success Screen Screenshot" width="400" />
-</div>
 
 ## 🌟 What's This All About?
 
