@@ -35,16 +35,19 @@ Check it out: [https://hiiiiiiiadammm.netlify.app/](https://hiiiiiiiadammm.netli
 2. Install dependencies: `npm install`
 3. Run locally: `npm run dev`
 
-The app will be available at `http://localhost:5173`
 
 ## My Learning 📚
 
-This project helped me explore modern web development practices. I learned how to:
-- Build interactive UIs with React hooks and state management
-- Implement smooth animations using Framer Motion
-- Work with TypeScript for better code quality
-- Use Vite for fast development workflows
-- Create engaging user experiences through thoughtful design
+This project was all about **vibe coding** ： letting creativity flow naturally with AI assistance. I used **Gemini Code Assist** throughout the development process, and it was a game-changer!
+
+Instead of getting stuck on technical details, I focused on the fun, romantic concept and let the AI handle the heavy lifting. Gemini helped me:
+- Generate the core React components and logic
+- Implement the tricky "No" button teleportation mechanics
+- Create smooth animations with Framer Motion
+- Build the confetti particle system
+- Style everything with Tailwind CSS
+
+The best part was how Code Assist understood my casual prompts and turned them into working code. It made coding feel more like brainstorming with a smart friend than wrestling with documentation. This project shows how AI can accelerate creative coding while still letting you steer the vision.
 
 ## Screenshots 📸
 
