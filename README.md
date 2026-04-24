@@ -1,3 +1,4 @@
+<img width="1508" height="841" alt="Screenshot 2026-04-24 at 12 41 06 PM" src="https://github.com/user-attachments/assets/c8fb0df7-9836-431d-bbf7-104c19fdb7a4" />
 # Be My Valentine - Interactive Invitation
 
 <div align="center">
@@ -131,16 +132,13 @@ The key to successful AI prompting was being specific about:
 ## 📸 Screenshots
 
 ### The Invitation Screen
-<div align="center">
-  <img src="https://i.ibb.co/LzhW90mW/IMG-4234.jpg" alt="Invitation Screen" width="400" />
-  <p><em>The charming invitation with the playful "No" button</em></p>
-</div>
+<img width="1508" height="841" alt="Screenshot 2026-04-24 at 12 41 06 PM" src="https://github.com/user-attachments/assets/0db4093b-e895-4e54-bdb8-f35c2e1234c4" />
+
+
 
 ### Celebration Screen
-<div align="center">
-  <img src="https://i.ibb.co/DDW43WgV/IMG-4237.jpg" alt="Success Screen" width="400" />
-  <p><em>The joyful celebration when "Yes" is clicked</em></p>
-</div>
+<img width="1506" height="851" alt="Screenshot 2026-04-24 at 12 41 13 PM" src="https://github.com/user-attachments/assets/ee643e90-1a12-47d0-b69e-39becf848636" />
+
 
 ## 💝 Why It Matters
 
